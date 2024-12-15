@@ -1,0 +1,32 @@
+.auth-form {
+  max-width: 400px;
+  margin: 50px auto;
+  padding: 20px;
+  background-color: #ffffff;
+  border: 1px solid #dee2e6;
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.auth-form h1 {
+  font-size: 1.8rem;
+  color: #007bff;
+}
+
+.auth-form .btn-primary {
+  background-color: #007bff;
+  border-color: #007bff;
+}
+
+.auth-form .btn-primary:hover {
+  background-color: #0056b3;
+}
+
+.auth-form .btn-success {
+  background-color: #28a745;
+  border-color: #28a745;
+}
+
+.auth-form .btn-success:hover {
+  background-color: #218838;
+}

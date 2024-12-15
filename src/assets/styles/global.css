@@ -1,0 +1,25 @@
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #f9f9f9;
+  color: #333;
+  margin: 0;
+  padding-top: 56px; /* Altezza navbar per evitare sovrapposizioni */
+}
+
+.main-container {
+  padding: 20px;
+}
+
+:root {
+  --primary-color: #007bff; /* Colore del logo */
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  color: var(--primary-color);
+}
